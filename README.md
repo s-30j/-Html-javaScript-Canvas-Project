@@ -1,6 +1,4 @@
 # -Html-javaScript-Canvas-Project
 Example Canvas Project
 
-```
-s
-```
+(Canvas) A variable for creating images with JavaScript
